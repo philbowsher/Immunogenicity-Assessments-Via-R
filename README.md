@@ -26,6 +26,10 @@ IMMUNOGENICITY Blog blogdown website:
 
 https://beta.rstudioconnect.com/content/2972/
 
+Immunogenicity Scientific and Technical Document:
+
+https://beta.rstudioconnect.com/content/3066a0d5-f403-4fa4-8f90-ba818c4ed5ea
+
 Live Plumber API for the OpenFDA API:
 
 https://beta.rstudioconnect.com/content/2975/outcomes?drug=FUROSEMIDE
