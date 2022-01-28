@@ -414,7 +414,7 @@ Points. Devanarayan et al.
 - FDA & EMA draft guidance (2009-2014)
 - Immunogenicity cut-point (CP) evaluation method have evolved significantly over the past decade
 
-##Tier 1 screening assay should be validated for sensitivity, specificity, and precision:
+## Tier 1 screening assay should be validated for sensitivity, specificity, and precision:
 - Sensitivity: Assess sensitivity using a preparation of purified antibodies. Sensitivity = interpolated concentration at the predetermined cut-point response. Determine sensitivity in test sample matrix at MRD. Required sensitivity = 100 – 500 ng/mL
 - Specificity: Critical for interpretation of immunogenicity results. If therapeutic is related to an endogenous protein, assess antibody cross-reactivity with both proteins. If therapeutic is in a family of homologous proteins, assess antibody cross-reactivity with all family members
 - Precision: Measure intra-day precision: 6 replicates per plate. Measure inter-day precision: 3 replicates per day for 3 days. Measure inter-operator variability when appropriate
@@ -1159,7 +1159,7 @@ https://beta.rstudioconnect.com/content/2671/Combining-Shiny-R-Markdown.html
 </div>
 
 ## What Shiny functions are being used below?
-```{r, echo=FALSE}
+```{r, eval=FALSE}
 library(d3scatter)
 library(crosstalk)
 

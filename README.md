@@ -2,7 +2,7 @@
 
 Live Presentation is here:
 
-https://beta.rstudioconnect.com/content/3190/
+https://colorado.rstudio.com/rsc/content/f6e99524-4bf2-4975-b908-27e33814ba45/
 
 Other apps and reports are here:
 
